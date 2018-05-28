@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bing-zhub/phaserGame/issues"
   },
-  "homepage": "https://github.com/bing-zhub/phaserGame#readme"
+  "homepage": "https://github.com/bing-zhub/phaserGame#readme",
+  "dependencies": {
+    "parser": "^0.1.4",
+    "phaser": "^3.9.0"
+  }
 }
